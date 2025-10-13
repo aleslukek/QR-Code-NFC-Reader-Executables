@@ -1,4 +1,4 @@
-# QR Code NFC Reader Executables
+# QR Code & NFC Reader Executables
 
 This repository hosts the compiled executables and drivers for the **QR Code & NFC Reader** application.
 

@@ -1,33 +1,24 @@
 {
   "version": "0.6.0",
   "name": "QR Codes & NFC Reader",
-  "releaseDate": "2025-01-27T00:00:00Z",
-  "releaseNotes": "Added automatic update functionality with manual check option, improved debugging with debug utilities, and enhanced user experience with better update notifications.",
+  "releaseDate": "2025-10-13",
+  "releaseNotes": "Initial release.",
   "changelog": [
-    "Cleaned up the terminal console log, so it only appears on npm start debug.",
-    "App update process."
+    "Initial release."
   ],
   "platforms": {
     "darwin": {
-        "version": "0.6.0",
-        "arch": "arm64",
-        "target": "dmg",
-        "url": "https://github.com/aleslukek/QR-Code-NFC-Reader-Executables/releases/download/v0.5.0/QR.Codes.NFC.Reader-0.5.0-arm64.dmg",
-        "filename": "QR Codes & NFC Reader-0.5.0-arm64.dmg",
-        "size": 91031058,
-        "sha256": "61924c5ced756cb2f6bdf0c5fffb53a771086b11d9b0cc5e898b9782febc6bee",
-        "sha512": "ce4a624a8409f417a32a67b69197b4b74f02bfabf1a2abef1e269d2d0a15ee0c209a2a1e05b4ce1742a8bf8b587394542b44985e1c367989e3797f1f7cbb84fa",
-        "minOSVersion": "10.15.0"
+      "version": "0.6.0",
+      "arch": "arm64",
+      "target": "dmg",
+      "url": "https://github.com/aleslukek/QR-Code-NFC-Reader-Executables/releases/download/v0.6.0/QR.Codes.NFC.Reader-arm64.dmg",
+      "minOSVersion": "10.15.0"
     },
     "win32": {
       "version": "0.6.0",
       "arch": "x64",
       "target": "portable",
-      "url": "https://github.com/aleslukek/QR-Code-NFC-Reader-Executables/releases/download/v0.6.0/QR-Codes-NFC-Reader-0.6.0.exe",
-      "filename": "QR Codes & NFC Reader-0.6.0.exe",
-      "size": 130000000,
-      "sha256": "PLACEHOLDER_SHA256_WINDOWS",
-      "sha512": "PLACEHOLDER_SHA512_WINDOWS",
+      "url": "https://github.com/aleslukek/QR-Code-NFC-Reader-Executables/releases/download/v0.6.0/QR.Codes.NFC.Reader.exe",
       "minOSVersion": "10.0.0"
     }
   }
